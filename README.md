@@ -29,4 +29,4 @@ git clone https://github.com/AmirSinaRZ/samurai-sudoku
 
 * Open it with Clion and click **Ok** to the Project Wizard.
 * **(Optional)** Rename the project. To do it you must change _PROJECT_NAME_ **ONLY in line 2** of CMaLists.txt.
-* Compile and run it. Everything went well if you see a purple window with exit code '0'.
+* Compile and run it. Everything went well if you see a sudoku window with exit code '0'.
